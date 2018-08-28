@@ -1,0 +1,11 @@
+C:\Users\EmLem\workspace\csharp\excercises\classes\obj\MCD\Debug\netcoreapp2.1\classes.csprojAssemblyReference.cache
+C:\Users\EmLem\workspace\csharp\excercises\classes\obj\MCD\Debug\netcoreapp2.1\classes.csproj.CoreCompileInputs.cache
+C:\Users\EmLem\workspace\csharp\excercises\classes\obj\MCD\Debug\netcoreapp2.1\classes.AssemblyInfoInputs.cache
+C:\Users\EmLem\workspace\csharp\excercises\classes\obj\MCD\Debug\netcoreapp2.1\classes.AssemblyInfo.cs
+C:\Users\EmLem\workspace\csharp\excercises\classes\bin\MCD\Debug\netcoreapp2.1\classes.deps.json
+C:\Users\EmLem\workspace\csharp\excercises\classes\bin\MCD\Debug\netcoreapp2.1\classes.runtimeconfig.json
+C:\Users\EmLem\workspace\csharp\excercises\classes\bin\MCD\Debug\netcoreapp2.1\classes.runtimeconfig.dev.json
+C:\Users\EmLem\workspace\csharp\excercises\classes\bin\MCD\Debug\netcoreapp2.1\classes.dll
+C:\Users\EmLem\workspace\csharp\excercises\classes\bin\MCD\Debug\netcoreapp2.1\classes.pdb
+C:\Users\EmLem\workspace\csharp\excercises\classes\obj\MCD\Debug\netcoreapp2.1\classes.dll
+C:\Users\EmLem\workspace\csharp\excercises\classes\obj\MCD\Debug\netcoreapp2.1\classes.pdb

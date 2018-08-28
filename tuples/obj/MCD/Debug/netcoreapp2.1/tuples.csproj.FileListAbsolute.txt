@@ -1,0 +1,11 @@
+C:\Users\EmLem\workspace\csharp\excercises\tuples\obj\MCD\Debug\netcoreapp2.1\tuples.csprojAssemblyReference.cache
+C:\Users\EmLem\workspace\csharp\excercises\tuples\obj\MCD\Debug\netcoreapp2.1\tuples.csproj.CoreCompileInputs.cache
+C:\Users\EmLem\workspace\csharp\excercises\tuples\obj\MCD\Debug\netcoreapp2.1\tuples.AssemblyInfoInputs.cache
+C:\Users\EmLem\workspace\csharp\excercises\tuples\obj\MCD\Debug\netcoreapp2.1\tuples.AssemblyInfo.cs
+C:\Users\EmLem\workspace\csharp\excercises\tuples\bin\MCD\Debug\netcoreapp2.1\tuples.deps.json
+C:\Users\EmLem\workspace\csharp\excercises\tuples\bin\MCD\Debug\netcoreapp2.1\tuples.runtimeconfig.json
+C:\Users\EmLem\workspace\csharp\excercises\tuples\bin\MCD\Debug\netcoreapp2.1\tuples.runtimeconfig.dev.json
+C:\Users\EmLem\workspace\csharp\excercises\tuples\bin\MCD\Debug\netcoreapp2.1\tuples.dll
+C:\Users\EmLem\workspace\csharp\excercises\tuples\bin\MCD\Debug\netcoreapp2.1\tuples.pdb
+C:\Users\EmLem\workspace\csharp\excercises\tuples\obj\MCD\Debug\netcoreapp2.1\tuples.dll
+C:\Users\EmLem\workspace\csharp\excercises\tuples\obj\MCD\Debug\netcoreapp2.1\tuples.pdb
