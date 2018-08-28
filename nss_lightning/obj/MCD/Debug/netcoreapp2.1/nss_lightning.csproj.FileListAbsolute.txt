@@ -1,0 +1,11 @@
+C:\Users\EmLem\workspace\csharp\excercises\nss_lightning\bin\MCD\Debug\netcoreapp2.1\nss_lightning.deps.json
+C:\Users\EmLem\workspace\csharp\excercises\nss_lightning\bin\MCD\Debug\netcoreapp2.1\nss_lightning.runtimeconfig.json
+C:\Users\EmLem\workspace\csharp\excercises\nss_lightning\bin\MCD\Debug\netcoreapp2.1\nss_lightning.runtimeconfig.dev.json
+C:\Users\EmLem\workspace\csharp\excercises\nss_lightning\bin\MCD\Debug\netcoreapp2.1\nss_lightning.dll
+C:\Users\EmLem\workspace\csharp\excercises\nss_lightning\bin\MCD\Debug\netcoreapp2.1\nss_lightning.pdb
+C:\Users\EmLem\workspace\csharp\excercises\nss_lightning\obj\MCD\Debug\netcoreapp2.1\nss_lightning.csprojAssemblyReference.cache
+C:\Users\EmLem\workspace\csharp\excercises\nss_lightning\obj\MCD\Debug\netcoreapp2.1\nss_lightning.csproj.CoreCompileInputs.cache
+C:\Users\EmLem\workspace\csharp\excercises\nss_lightning\obj\MCD\Debug\netcoreapp2.1\nss_lightning.AssemblyInfoInputs.cache
+C:\Users\EmLem\workspace\csharp\excercises\nss_lightning\obj\MCD\Debug\netcoreapp2.1\nss_lightning.AssemblyInfo.cs
+C:\Users\EmLem\workspace\csharp\excercises\nss_lightning\obj\MCD\Debug\netcoreapp2.1\nss_lightning.dll
+C:\Users\EmLem\workspace\csharp\excercises\nss_lightning\obj\MCD\Debug\netcoreapp2.1\nss_lightning.pdb

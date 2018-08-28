@@ -1,0 +1,11 @@
+C:\Users\EmLem\workspace\csharp\excercises\sets\bin\MCD\Debug\netcoreapp2.1\sets.deps.json
+C:\Users\EmLem\workspace\csharp\excercises\sets\bin\MCD\Debug\netcoreapp2.1\sets.runtimeconfig.json
+C:\Users\EmLem\workspace\csharp\excercises\sets\bin\MCD\Debug\netcoreapp2.1\sets.runtimeconfig.dev.json
+C:\Users\EmLem\workspace\csharp\excercises\sets\bin\MCD\Debug\netcoreapp2.1\sets.dll
+C:\Users\EmLem\workspace\csharp\excercises\sets\bin\MCD\Debug\netcoreapp2.1\sets.pdb
+C:\Users\EmLem\workspace\csharp\excercises\sets\obj\MCD\Debug\netcoreapp2.1\sets.csprojAssemblyReference.cache
+C:\Users\EmLem\workspace\csharp\excercises\sets\obj\MCD\Debug\netcoreapp2.1\sets.csproj.CoreCompileInputs.cache
+C:\Users\EmLem\workspace\csharp\excercises\sets\obj\MCD\Debug\netcoreapp2.1\sets.AssemblyInfoInputs.cache
+C:\Users\EmLem\workspace\csharp\excercises\sets\obj\MCD\Debug\netcoreapp2.1\sets.AssemblyInfo.cs
+C:\Users\EmLem\workspace\csharp\excercises\sets\obj\MCD\Debug\netcoreapp2.1\sets.dll
+C:\Users\EmLem\workspace\csharp\excercises\sets\obj\MCD\Debug\netcoreapp2.1\sets.pdb
