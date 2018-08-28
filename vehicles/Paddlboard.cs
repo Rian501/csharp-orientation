@@ -2,7 +2,7 @@ using System;
 
 namespace vehicles
 {
-  public class JetSki : IAquaVehicle
+  public class PaddleBoard : IAquaVehicle
   {
     public int PassengerCapacity { get; set; }
     public string TransmissionType { get; set; }
@@ -10,7 +10,7 @@ namespace vehicles
     public double MaxWaterSpeed { get; set; }
     public void Drive()
     {
-      Console.WriteLine("The jetski zips through the waves with the greatest of ease");
+      Console.WriteLine("Use your arms!");
     }
 
     public void Start()

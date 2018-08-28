@@ -26,14 +26,27 @@ namespace vehicles
 
 
       // Build a collection of all vehicles that operate on roads
-
+      List<ITerraVehicle> drivers = new List<ITerraVehicle>(){
+          new Motorcycle(),
+          new Altima()
+    };
       // With a single `foreach`, have each road vehicle Drive()
-
+      foreach (ITerraVehicle vroom in drivers)
+      {
+        vroom.Drive();
+      }
 
 
       // Build a collection of all vehicles that operate on water
+      List<IAquaVehicle> waterGos = new List<IAquaVehicle>(){
+          new JetSki(),
+          new PaddleBoard()
+    };
+      foreach (IAquaVehicle waterThing in waterGos)
+      {
+        waterThing.Drive();
+      }
 
-      // With a single `foreach`, have each water vehicle Drive()
     }
   }
 }
