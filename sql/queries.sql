@@ -24,7 +24,7 @@ INSERT INTO song (SongId, Title, SongLength, ReleaseDate,GenreId,ArtistId,AlbumI
 VALUES (23, 'Outta My Mind', 294, '9/4/2015', 2, 29, 25);
 INSERT INTO song (SongId, Title, SongLength, ReleaseDate,GenreId,ArtistId,AlbumId)
 VALUES (24, 'Stay in My Corner', 894, '9/4/2015', 2, 29, 25);
-INSERT INTO song (SongId, Title, SongLength, ReleaseDate,GenreId,ArtistId,AlbumId)
+INSERT INTO song (SongId, Title, SongLength, ReleaseDate, GenreId, ArtistId, AlbumId)
 VALUES (25, 'The Arc', 827, '9/4/2015', 2, 29, 25);
 -- Write a SELECT query that provides the song titles, album title, and artist name for all of the data you just entered in. Use the LEFT JOIN keyword sequence to connect the tables, and the WHERE keyword to filter the results to the album and artist you added. Here is some more info on joins that might help.
 
@@ -77,3 +77,8 @@ FROM song;
 
 SELECT MAX(songlength), s.title, a.title, ar.artistname
 FROM song s left join album a ON s.albumId = a.albumId
+
+
+-- Which album has the most songs?
+-- Which genre has been assigned to the most songs?
+-- Which record label has released the most albums?
